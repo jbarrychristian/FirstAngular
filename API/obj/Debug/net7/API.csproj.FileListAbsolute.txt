@@ -68,3 +68,4 @@ C:\Users\jbarr\source\repos\DatingApp\api\bin\Debug\net7\runtimes\win-arm\native
 C:\Users\jbarr\source\repos\DatingApp\api\bin\Debug\net7\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\jbarr\source\repos\DatingApp\api\bin\Debug\net7\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\jbarr\source\repos\DatingApp\api\bin\Debug\net7\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\jbarr\source\repos\DatingApp\API\bin\Debug\net7\package-lock.json
