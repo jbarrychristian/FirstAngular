@@ -69,3 +69,11 @@ C:\Users\jbarr\source\repos\DatingApp\api\bin\Debug\net7\runtimes\win-arm64\nati
 C:\Users\jbarr\source\repos\DatingApp\api\bin\Debug\net7\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\jbarr\source\repos\DatingApp\api\bin\Debug\net7\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\jbarr\source\repos\DatingApp\API\bin\Debug\net7\package-lock.json
+C:\Users\jbarr\source\repos\DatingApp\API\bin\Debug\net7\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jbarr\source\repos\DatingApp\API\bin\Debug\net7\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jbarr\source\repos\DatingApp\API\bin\Debug\net7\Microsoft.IdentityModel.Logging.dll
+C:\Users\jbarr\source\repos\DatingApp\API\bin\Debug\net7\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jbarr\source\repos\DatingApp\API\bin\Debug\net7\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jbarr\source\repos\DatingApp\API\bin\Debug\net7\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jbarr\source\repos\DatingApp\API\bin\Debug\net7\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jbarr\source\repos\DatingApp\API\bin\Debug\net7\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
