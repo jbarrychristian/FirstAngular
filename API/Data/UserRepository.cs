@@ -14,8 +14,8 @@ public class UserRepository : IUserRepository
 
     public UserRepository(DataContext context, IMapper mapper)
     {
-            _context = context;
-            _mapper = mapper;        
+        _context = context;
+        _mapper = mapper;
     }
 
     public async Task<MemberDto> GetMemberAsync(string username)
@@ -31,7 +31,6 @@ public class UserRepository : IUserRepository
         return await _context.Users
         .ProjectTo<MemberDto>(_mapper.ConfigurationProvider)
         .ToListAsync();
-
     }
 
     public async Task<AppUser> GetUserByIdAsync(int Id)
